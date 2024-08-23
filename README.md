@@ -9,7 +9,6 @@
 
 
 ## Projects along the Journey:
-[![Button Example]][[(https://img.shields.io/badge/Title-37a779?style=for-the-badge)]
 
 [Link]: # 'Link with example title.'
 [Button Example]: 
@@ -31,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-yada/) 
 
 # 💻 Tech Stack:
-![Swift](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) ![Firebase](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,realm,jwt,git,github,swiftui,uikit)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
