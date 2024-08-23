@@ -10,8 +10,7 @@
 
 ## Projects along the Journey:
 
-[Link]: # 'Link with example title.'
-[Button Example]: 
+
 
 - [HORNews ARp](link): The "H4X0R News" app is a project I built to learn and practice key iS development concepts using SwiftUI. Through this app, I explored list management, networking, the Observer design pattern, and integrating UIKit components with SwiftUI. It served as a hands-on way to deepen my understanding of these essential tools and techniques, helping me grow as an i0S developer.
   
@@ -27,10 +26,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-yada/) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-yada/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=swift,firebase,realm,jwt,git,github,swiftui,uikit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,git,github)]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
