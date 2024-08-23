@@ -9,9 +9,10 @@
 
 
 ## Projects along the Journey:
-[![Button Example]][Link]
+[![Button Example]][[(https://img.shields.io/badge/Title-37a779?style=for-the-badge)]
+
 [Link]: # 'Link with example title.'
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+[Button Example]: 
 
 - [HORNews ARp](link): The "H4X0R News" app is a project I built to learn and practice key iS development concepts using SwiftUI. Through this app, I explored list management, networking, the Observer design pattern, and integrating UIKit components with SwiftUI. It served as a hands-on way to deepen my understanding of these essential tools and techniques, helping me grow as an i0S developer.
   
