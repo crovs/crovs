@@ -10,6 +10,8 @@
 
 ## Projects along the Journey:
 
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+
 - [HORNews ARp](link): The "H4X0R News" app is a project I built to learn and practice key iS development concepts using SwiftUI. Through this app, I explored list management, networking, the Observer design pattern, and integrating UIKit components with SwiftUI. It served as a hands-on way to deepen my understanding of these essential tools and techniques, helping me grow as an i0S developer.
   
 - [BusinessCard App](link): I created the "BusinessCard" app to learn how to design and implement complex layouts using SwiftUI. This project allowed me to experiment with SwiftUI's powerful layout tools and design capabilities, helping me to better understand how to build visually appealing and functional interfaces in iOS apps.
