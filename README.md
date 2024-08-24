@@ -1,8 +1,5 @@
 # 💫 Hey There!:
-🌟 About Me<br>Hey there! I'm Ahmet, 👋<br><br>🎓 Student by Day,<br><div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
-</div>
-Aspiring iOS Developer by Night 🌙<br><br>I'm currently a student with a big dream—creating sleek, user-friendly iOS apps that people love. My journey in the world of coding started with curiosity, and now it's turning into a passion for developing Swift and designing with SwiftUI.<br><be>
+🌟 About Me<br>Hey there! I'm Ahmet, 👋<br><br>🎓 Student by Day,<br><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>Aspiring iOS Developer by Night 🌙<br><br>I'm currently a student with a big dream—creating sleek, user-friendly iOS apps that people love. My journey in the world of coding started with curiosity, and now it's turning into a passion for developing Swift and designing with SwiftUI.<br><be>
 
 🚀 My Mission<br>I'm on a mission to turn ideas into reality, one line of code at a time. Right now, I'm focused on:<br><br>Mastering Swift: Diving deep into the language and exploring its endless possibilities.<br>Building Projects: Creating simple, yet powerful apps to sharpen my skills.<br>Connecting with the Community: Learning from and contributing to the open-source world.<br>
 
