@@ -20,7 +20,7 @@
   
 - [ByteCoin](link): I developed the "ByteCoin" app to learn how to integrate APIs, handle JSON data, and update the UI dynamically in an iOS app. This project helped me master networking with URLSession, use UlPickerView for user interaction, and implement the delegate pattern to keep the app's interface responsive and up-to-date with real-time cryptocurrency prices.
   
-- [Clima](link): I developed the "Clima" app primarily to master API integration and networking in iOS. This project involved using URLSession to fetch weather data from the Openweather API, parsing JSON responses, and dynamically updating the UI based on real-time data and user location.
+?logo=clima - [Clima](link): I developed the "Clima" app primarily to master API integration and networking in iOS. This project involved using URLSession to fetch weather data from the Openweather API, parsing JSON responses, and dynamically updating the UI based on real-time data and user location.
   
 - [Tipsy](link): I built the "Tipsy" app to learn advanced Swift programming and to develop a practical tool for splitting bills and calculating tips. The app handles user inputs, calculates the total per person, and passes the results between view controllers, providing a seamless experience for sharing payments among friends.
 
