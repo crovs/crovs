@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-yada/) 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=swift,firebase,git,github)<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" alt="Realm" title="Realm"/></code>
+![My Skills](https://skillicons.dev/icons?i=swift,firebase,git,github)<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" alt="Realm" title="Realm"/></code><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
