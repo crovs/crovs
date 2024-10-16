@@ -26,7 +26,7 @@
 ![My Skills](https://skillicons.dev/icons?i=swift,firebase,git,github)<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" alt="Realm" title="Realm"/></code><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-# <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>  Projects along the Journey: (Education Foucused)
+# <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>  Projects along the Journey: (Education Focused)
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 #### [Todoey 📋](link): Developed a task management app to learn local data persistence in iOS. Implemented UserDefaults, Core Data, and Realm, while also exploring advanced Swift concepts and custom UI elements. [![Static Badge](https://img.shields.io/badge/-See%20the%20Full%20App-emeraldgreen?style=flat-square)](link)
